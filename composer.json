@@ -1,6 +1,6 @@
 {
-  "name": "vendor_name/proxify-test",
-  "description": "description",
+  "name": "ivan_edrennikov/proxify-test",
+  "description": "Proxify test",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [

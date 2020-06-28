@@ -2,7 +2,11 @@
 Test assignment for Proxify
 
 Author: Ivan Edrennikov
+# Requirements
+PHP 7.3 or higher
 
+MySQL as database (not tested with others, but PostgreSQL will work I suppose).
+If using MySQL 8 then set default password plugin to mysql_native_password.
 # Installation
 ### Database and Timeout Setup
 Database and timeout configuration is in file `config/worker.php`
